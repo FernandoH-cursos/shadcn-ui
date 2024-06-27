@@ -6,3 +6,7 @@ ___
 
 ## Temas a tratar:
 ### - Componentes de Shadcn
+### - Manejo de tablas de Shadcn con _Tankstack React table_ usando la mayoría de funcionalidades.
+### - Manejo de formulario de Shadcn con Date pickers, _React hook form_ y _Zod_.
+### - Tema Dark Mode con TaiwindCSS.
+### - Theme Providers. 
